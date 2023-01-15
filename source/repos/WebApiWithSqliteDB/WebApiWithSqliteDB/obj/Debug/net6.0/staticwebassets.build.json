@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4C4b7RCzJI/++l8hITzx05uPAP2SHkm9Oh9V5H2tJs=",
+  "Source": "WebApiWithSqliteDB",
+  "BasePath": "_content/WebApiWithSqliteDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
